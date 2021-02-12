@@ -1,0 +1,14 @@
+aside {
+    border: solid;
+    padding: 30px;
+}
+
+h3 {
+    border: solid;
+    padding: 30px;
+}
+
+h2 p{
+    display: inline-block;
+}
+
