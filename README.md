@@ -16,6 +16,7 @@ Layout\
 ## Details in Code
 [MyPortfolio](https://sg3606.github.io/MyPortfolio/.)
 [Index](./Index.html)\
-![Website Screenshot1](./Assets/screenshot/screenshot.png)\
-![ImageSource](https://oceanwp.org/extension/ocean-portfolio/)
-![ImageSource](https://jessicaroots.com/project/black-friday/portfolio-background-header/)
+![Website Screenshot1](./Assets/Screenshot/screenshot.png)\
+Images use in Portforlio
+(https://oceanwp.org/extension/ocean-portfolio/)
+(https://jessicaroots.com/project/black-friday/portfolio-background-header/)
