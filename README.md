@@ -15,7 +15,7 @@ Layout\
 
 ## Details in Code
 [MyPortfolio](https://sg3606.github.io/MyPortfolio/.)
-[Index](./Index.html)\
+[Index](./index.html)\
 ![Website Screenshot1](./Assets/Screenshot/screenshot.png)\
 Images use in Portforlio
 (https://oceanwp.org/extension/ocean-portfolio/)
