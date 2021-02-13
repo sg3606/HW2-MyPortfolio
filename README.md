@@ -2,7 +2,7 @@
 
 ## Task
 In the given scenario , an employer wants to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position.
+so that he can review samples of their work and assess whether they're a good candidate for an open position.
 
 
 ## Finished Requirements
@@ -11,7 +11,7 @@ Navigation Links\
 Photo and Name\
 Images\
 Contact\
-Layout\
+Layout
 
 ## Details in Code
 [MyPortfolio](https://sg3606.github.io/MyPortfolio/.)
