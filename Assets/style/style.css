@@ -13,7 +13,6 @@ aside {
     margin: 20px;
     padding: 10px;
     border-right: 10px solid #0669615d;
-
 }
 
 .name {
@@ -31,7 +30,8 @@ nav{
     display: flex;
     flex: 0.75;
     background: #0669615d;
-    padding: 10px;
+    padding: 11.5px;
+    justify-content: center;
 }
 
 article{
@@ -40,7 +40,7 @@ article{
     padding: 10px;
 }
 
-div{
+.outterbox .innerbox{
     clear: none;
     display: flex;
 }
@@ -60,23 +60,30 @@ div{
 
 .newNav{
     list-style-type: none;
-    display: inline-block;
+    display: flex;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
-    padding-right: 50px;
     padding-top: 30px;
     background-color: white;
+    flex-grow: 1;
 }
 
 a {
     color: gray;
 }
+
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
 .contact li{
     list-style-type: none;
-    display: inline-block;
+    display: flex;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 200%;
-    padding-right: 75px;
+    flex-grow: 1;
 }
 
 .Background {
@@ -118,6 +125,23 @@ div {
     margin-bottom: 1.5rem;
 }
 
+.navbox{
+    all: initial;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.namebox{
+    all: initial;
+    flex-grow: 10;
+}
+
+.navopt{
+    all: initial;
+    flex-grow: 1;
+}
+
 .innerbox {
     transition: flex-basis 500ms linear;
     border-radius: 8px;
@@ -133,7 +157,7 @@ div {
 }
 
 h3 {
-    position:absolute;
+    position:relative;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
@@ -174,12 +198,20 @@ img {
 
 @media screen and (max-width: 650px) {
     img {
-      width: 200px;
-      height: 96px;
+      width: 160px;
+      height: 76.8px;
     }
 
     .imgmain {
-        width: 200px;
-        height: 96px;
+        width: 160px;
+        height: 76.8px;
+    }
+    
+    h2{
+        font-size: 100%;
+    }
+
+    .contact li{
+        font-size: 100%;
     }
 }

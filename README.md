@@ -6,7 +6,7 @@ so that he can review samples of their work and assess whether they're a good ca
 
 
 ## Finished Requirements
-Sample of previous work (work)\
+3 previous work (work)\
 Navigation Links\
 Photo and Name\
 Images\
@@ -16,7 +16,7 @@ Layout
 ## Details in Code
 [MyPortfolio](https://sg3606.github.io/MyPortfolio/.)
 [Index](./index.html)\
-![Website Screenshot1](./Assets/Screenshot/screenshot.png)\
+![Website Screenshot1](./Assets/Screenshot/update.png)\
 Images use in Portforlio
 (https://oceanwp.org/extension/ocean-portfolio/)
 (https://jessicaroots.com/project/black-friday/portfolio-background-header/)
